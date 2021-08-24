@@ -1,0 +1,18 @@
+.userAdd .el-form--inline .el-form-item__label {
+    margin-right: 16px;
+}
+.userAdd .el-input__inner {
+    width: 240px;
+}
+.userAdd  .el-date-editor.el-input, .el-date-editor.el-input__inner {
+    width: 240px;
+}
+.avatar-uploader-icon {
+    width: 116px !important;
+    height: 152px !important;
+    line-height: 152px !important;
+}
+.avatar-uploader .el-upload {
+    width: 116px !important;
+    height: 152px !important;
+}
